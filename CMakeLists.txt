@@ -118,3 +118,6 @@ if(USE_PAGMO)
   add_subdirectory( "${PROJECTROOT}/tudatExampleApplications/libraryExamples/PaGMOEx/")
 endif()
 add_subdirectory( "${PROJECTROOT}/tudatExampleApplications/templateApplication/TemplateApplication")
+
+add_subdirectory( "${PROJECTROOT}/tudatApplications/Spaceproject1_AFM/spaceProjectAssignment1")
+add_subdirectory( "${PROJECTROOT}/tudatApplications/Spaceproject1_AFM/spaceProjectAssignment2")
